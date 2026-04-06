@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sources>
-
     <mappings>
-        <channel name="epgshare01.channels.xml.gz">
-            <url>http://epgshare01.online/epgshare01/epg_ripper_EG1.channels.xml.gz</url>
-            <url>http://epgshare01.online/epgshare01/epg_ripper_AE1.channels.xml.gz</url>
-            <url>http://epgshare01.online/epgshare01/epg_ripper_BEIN1.channels.xml.gz</url>
+        <channel name="rytec.channels.xml.xz">
+            <url>http://www.xmltvepg.nl/rytec.channels.xml.xz</url>
+            <url>http://rytecepg.wanwizard.eu/rytec.channels.xml.xz</url>
         </channel>
     </mappings>
 
     <sourcecat sourcecatname="Arabic Nilesat (Comprehensive)">
-        
-        <source type="gen_xmltv" nocheck="1" channels="epgshare01.channels.xml.gz">
-            <description>EPG-Ripper Egypt Channels (EG1)</description>
+        <source type="gen_xmltv" nocheck="1" channels="rytec.channels.xml.xz">
+            <description>EPG-Ripper Egypt (EG1)</description>
             <url>http://epgshare01.online/epgshare01/epg_ripper_EG1.xml.gz</url>
         </source>
 
-        <source type="gen_xmltv" nocheck="1" channels="epgshare01.channels.xml.gz">
-            <description>EPG-Ripper Arabic (AE1) - Full Nilesat</description>
+        <source type="gen_xmltv" nocheck="1" channels="rytec.channels.xml.xz">
+            <description>EPG-Ripper Arabic (AE1)</description>
             <url>http://epgshare01.online/epgshare01/epg_ripper_AE1.xml.gz</url>
         </source>
         
-        <source type="gen_xmltv" nocheck="1" channels="epgshare01.channels.xml.gz">
-            <description>EPG-Ripper beIN &amp; Sports</description>
+        <source type="gen_xmltv" nocheck="1" channels="rytec.channels.xml.xz">
+            <description>EPG-Ripper beIN Sports</description>
             <url>http://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz</url>
         </source>
-
     </sourcecat>
 </sources>
