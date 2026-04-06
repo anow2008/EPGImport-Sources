@@ -4,17 +4,22 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'Nilesat_EPG.sources.xml' # يشتغل فقط عند تعديل ملف السورس
 
 jobs:
   auto-tag:
     runs-on: ubuntu-latest
+    # الحل النهائي لمشكلة Permission Denied 403
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # لجلب كل التاجات القديمة ومنع التكرار
 
-      - name: Fetch tags
-        run: git fetch --tags        
-      
       - name: Set up Git
         run: |
           git config user.name "github-actions[bot]"
@@ -23,8 +28,8 @@ jobs:
       - name: Get commit date and format tag
         id: get-tag
         run: |
-          COMMIT_SHA=$(git rev-parse HEAD)
-          COMMIT_DATE=$(git show -s --format=%cd --date=format:'%Y%m%d' "$COMMIT_SHA")
+          # استخراج التاريخ بصيغة YYYYMMDD
+          COMMIT_DATE=$(date +'%Y%m%d')
           echo "tag=$COMMIT_DATE" >> $GITHUB_OUTPUT
 
       - name: Check if tag exists
@@ -33,6 +38,7 @@ jobs:
           TAG_NAME=${{ steps.get-tag.outputs.tag }}
           if git rev-parse "$TAG_NAME" >/dev/null 2>&1; then
             echo "exists=true" >> $GITHUB_OUTPUT
+            echo "Tag $TAG_NAME already exists. Skipping..."
           else
             echo "exists=false" >> $GITHUB_OUTPUT
           fi
