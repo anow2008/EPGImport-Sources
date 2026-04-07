@@ -4,6 +4,10 @@
         <channel name="egypt.channels.xml">
             <url>https://raw.githubusercontent.com/anow2008/EPGImport-Sources/main/egypt/egypt.channels.xml</url>
         </channel>
+        
+        <channel name="elcinema_mapping">
+            <url>https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml</url>
+        </channel>
     </mappings>
 
     <sourcecat sourcecatname="Arabic Nilesat (EpgShare01)">
@@ -21,6 +25,11 @@
         <source type="gen_xmltv" nocheck="1" channels="egypt.channels.xml">
             <description>EPG-Ripper beIN &amp; Sports</description>
             <url>https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz</url>
+        </source>
+
+        <source type="gen_xmltv" nocheck="1" channels="elcinema_mapping">
+            <description>EPG-Ripper ElCinema (Arabic)</description>
+            <url>https://raw.githubusercontent.com/iptv-org/epg/master/guides/eg/elcinema.com.xml</url>
         </source>
 
     </sourcecat>
