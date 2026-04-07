@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sources>
     <mappings>
-        <channel name="rytec.channels.xml.xz">
-            <url>http://www.xmltvepg.nl/rytec.channels.xml.xz</url>
-            <url>http://rytecepg.wanwizard.eu/rytec.channels.xml.xz</url>
-            <url>http://epg.vuplus-community.net/rytec.channels.xml.xz</url>
+        <channel name="egypt.channels.xml">
+            <url>https://raw.githubusercontent.com/anow2008/EPGImport-Sources/main/egypt/egypt.channels.xml</url>
         </channel>
     </mappings>
 
     <sourcecat sourcecatname="Arabic Nilesat (EpgShare01)">
         
-        <source type="gen_xmltv" nocheck="1" channels="rytec.channels.xml.xz">
+        <source type="gen_xmltv" nocheck="1" channels="egypt.channels.xml">
             <description>EPG-Ripper Egypt (EG1)</description>
             <url>https://epgshare01.online/epgshare01/epg_ripper_EG1.xml.gz</url>
         </source>
 
-        <source type="gen_xmltv" nocheck="1" channels="rytec.channels.xml.xz">
+        <source type="gen_xmltv" nocheck="1" channels="egypt.channels.xml">
             <description>EPG-Ripper Arabic (AE1) - Full Nilesat</description>
             <url>https://epgshare01.online/epgshare01/epg_ripper_AE1.xml.gz</url>
         </source>
         
-        <source type="gen_xmltv" nocheck="1" channels="rytec.channels.xml.xz">
+        <source type="gen_xmltv" nocheck="1" channels="egypt.channels.xml">
             <description>EPG-Ripper beIN &amp; Sports</description>
             <url>https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz</url>
         </source>
