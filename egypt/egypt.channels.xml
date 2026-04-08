@@ -30,215 +30,173 @@
 	<channel id="Al.Dafrah.eg">1:0:19:19D3:42:800:DCA0000:0:0:0:</channel>
 	<channel id="Al.Emarat.TV.HD.eg">1:0:1:2:32:64:DCA0000:0:0:0:</channel>
 	<channel id="Al.Jadeed.TV.eg">1:0:19:18:1:2BE:1040000:0:0:0:</channel>
-	<channel id="Al.Kahera.Wal.Nas.+2.eg">1:0:1:515:D:800:DCA0000:0:0:0:</channel>
 	<channel id="Al.Kahera.Wal.Nas.TV.2.eg">1:0:1:515:D:800:DCA0000:0:0:0:</channel>
 	<channel id="Al.Kahera.Wal.Nas.TV.eg">1:0:1:1EA:5:800:DCA0000:0:0:0:</channel>
-	<channel id="Al.Kahera.Wal.Nas.eg">1:0:1:1EA:5:800:DCA0000:0:0:0:</channel>
 	<channel id="Al.Nahar.Drama.eg">1:0:1:70A:12:800:DCA0000:0:0:0:</channel>
-	<channel id="Al.Nahar.TV.eg">1:0:1:709:12:800:DC00000:0:0:0:</channel>
 	<channel id="Al.Nahar.TV.eg">1:0:1:709:12:800:DCA0000:0:0:0:</channel>
 	<channel id="AL.RASHEED.TV.HD.eg">1:0:19:4:9C7C:77E:DCA0000:0:0:0:</channel>
 	<channel id="Al.Shams.eg">1:0:1:899:16:800:DCA0000:0:0:0:</channel>
 	<channel id="AL.SUMARIA.HD.eg">1:0:19:5:9C7C:77E:DCA0000:0:0:0:</channel>
-	<channel id="Al_Aoula_Morocco.eg">1:0:1:1:320:2BE:1040000:0:0:0:</channel>
-	<channel id="Al_Dafrah.eg">1:0:19:19D3:42:800:DCA0000:0:0:0:</channel>
-	<channel id="Al_JadeedTV.eg">1:0:19:18:1:2BE:1040000:0:0:0:</channel>
-	<channel id="Al_Kahera_Wal_NasTV.eg">1:0:1:1EA:5:800:DCA0000:0:0:0:</channel>
-	<channel id="Al_Kahera_Wal_NasTV2.eg">1:0:1:1905:40:800:DCA0000:0:0:0</channel>
-	<channel id="Al_Kahera_Wal_NasTV2.eg">1:0:1:515:D:800:DCA0000:0:0:0:</channel>
-	<channel id="Al_Nahar_Drama.eg">1:0:1:70A:12:800:DCA0000:0:0:0</channel>
-	<channel id="Al_NaharDrama.eg">1:0:1:70A:12:800:DCA0000:0:0:0:</channel>
-	<channel id="Al_NaharTV.eg">1:0:1:709:12:800:DCA0000:0:0:0:</channel>
-	<channel id="Al_NaharTV.eg">1:0:19:C88:20:800:DCA0000:0:0:0:</channel>
-	<channel id="Al_Shams.eg">1:0:1:899:16:800:DCA0000:0:0:0:</channel>
 	<channel id="Alaraby.TV.2.eg">1:0:1:1B67:17:6E:DCA0000:0:0:0:</channel>
-	<channel id="Alaraby.TV.2.eg">1:0:1:2C2:7:800:DCA0000:0:0:0:</channel>
-	<channel id="Alaraby.TV.2.eg">1:0:1:B07:1C:800:DCA0000:0:0:0:</channel>
-	<channel id="AlAraby_2.eg">1:0:1:1B67:17:6E:DCA0000:0:0:0:</channel>
-	<channel id="AlAraby_2.eg">1:0:19:193:10:6E:DCA0000:0:0:0:</channel>
-	<channel id="Alaraby.TV.2.eg">1:0:19:193:10:6E:DCA0000:0:0:0:</channel>
-	<channel id="Alhayat.Drama.eg">1:0:1:70F:12:800:DCA0000:0:0:0:</channel>
-	<channel id="AlHayat.HD.eg">1:0:19:C88:20:800:DCA0000:0:0:0:</channel>
 	<channel id="Alhayat.TV.eg">1:0:1:C84:20:800:DCA0000:0:0:0:</channel>
-	<channel id="Alhayat.TV.eg">1:0:19:C88:20:800:DCA0000:0:0:0:</channel>
-	<channel id="ALhayat.eg">1:0:1:C84:20:800:DCA0000:0:0:0:</channel>
-	<channel id="Alhayat_Drama.eg">1:0:1:51F:D:800:DCA0000:0:0:0:</channel>
-	<channel id="Alhayat_Drama.eg">1:0:1:70F:12:800:DCA0000:0:0:0:</channel>
-	<channel id="Alhayat_Drama.eg">1:0:1:EE4:26:800:DCA0000:0:0:0</channel>
-	<channel id="Alhayat_TV.eg">1:0:1:C84:20:800:DCA0000:0:0:0:</channel>
-	<channel id="Alhayat_TV.eg">1:0:19:C88:20:800:DCA0000:0:0:0:</channel>
-	<channel id="ALJADEED.TV.HD.eg">1:0:19:18:1:2BE:1040000:0:0:0:</channel>
-	<channel id="Al-Nahar.Drama.eg">1:0:1:70A:12:800:DCA0000:0:0:0:</channel>
-	<channel id="Al-Nahar.One.eg">1:0:1:709:12:800:DCA0000:0:0:0:</channel>
-	<channel id="Aloula.eg">1:0:1:1F5:5:800:DCA0000:0:0:0:</channel>
-	<channel id="Aloula.eg">1:0:19:1F6:5:800:DCA0000:0:0:0:</channel>
-	<channel id="Aloula_Egy_Ch.eg">1:0:19:1F6:5:800:DCA0000:0:0:0:</channel>
-	<channel id="Alrasheed.eg">1:0:1:4:9C7C:77E:DCA0000:0:0:0:</channel>
-	<channel id="Alrasheed.eg">1:0:19:4:9C7C:77E:DC00000:0:0:0:</channel>
-	<channel id="Alrasheed.eg">1:0:19:4:9C7C:77E:DCA0000:0:0:0:</channel>
 	<channel id="AlSaeedah.eg">1:0:1:648:10:800:DCA0000:0:0:0:</channel>
 	<channel id="AlSharqiya.eg">1:0:1:1:9C7C:77E:DCA0000:0:0:0:</channel>
-	<channel id="AlSharqiya.eg">1:0:1:2526:13EF:13E:820000:0:0:0:</channel>
-	<channel id="AlSharqiya.eg">1:0:1:716:12:800:DCA0000:0:0:0:</channel>
-	<channel id="AlSharqiya.eg">1:0:19:2526:13EF:13E:820000:0:0:0:</channel>
-	<channel id="AlSharqiya.eg">1:0:19:716:12:800:DCA0000:0:0:0:</channel>
-	<channel id="AlSharqiya.eg">1:0:19:B03:1C:800:DCA0000:0:0:0:</channel>
 	<channel id="Alsumaria.eg">1:0:1:5:9C7C:77E:DCA0000:0:0:0:</channel>
-	<channel id="Alsumaria.eg">1:0:19:5:9C7C:77E:DCA0000:0:0:0:</channel>
-	<channel id="Alsumaria.eg">1:0:19:F:1F7:2BE:1040000:0:0:0</channel>
 	<channel id="Amman.TV.eg">1:0:19:320:8:800:DCA0000:0:0:0:</channel>
-	<channel id="Amman.eg">1:0:19:320:8:800:DCA0000:0:0:0:</channel>
-	<channel id="beIN.MOVIES.1.eg">1:0:19:28A6:410:E0:1040000:0:0:0:</channel>
-	<channel id="beIN.MOVIES.2.eg">1:0:19:9CAF:FAA:E0:1040000:0:0:0:</channel>
-	<channel id="beIN.MOVIES.3.eg">1:0:19:9D0F:FB4:E0:1040000:0:0:0:</channel>
-	<channel id="beIN.MOVIES.4.eg">1:0:19:9CB0:FAA:E0:1040000:0:0:0:</channel>
-	<channel id="BeIn.Series.HD.1.eg">1:0:19:9D74:FBE:E0:1040000:0:0:0:</channel>
-	<channel id="beIN.Series.HD.2.eg">1:0:19:2201:1F86:E0:1040000:0:0:0:</channel>
 	<channel id="Bein_Drama_1.eg">1:0:19:4E88:7DA:E0:1040000:0:0:0:</channel>
 	<channel id="Bein_Movies_Action_2.eg">1:0:19:9CAF:FAA:E0:1040000:0:0:0:</channel>
 	<channel id="Bein_Movies_Drama_3.eg">1:0:19:9D0F:FB4:E0:1040000:0:0:0:</channel>
-	<channel id="Bein_Movies_Family_4.eg">1:0:19:9CB0:FAA:E0:1040000:0:0:0:</channel>
 	<channel id="Bein_Movies_Premiere_1.eg">1:0:19:28A6:410:E0:1040000:0:0:0:</channel>
 	<channel id="Bein_Series_1.eg">1:0:19:9D74:FBE:E0:1040000:0:0:0:</channel>
 	<channel id="Bein_Series_2.eg">1:0:19:28A7:410:E0:1040000:0:0:0:</channel>
 	<channel id="CBC.Drama.eg">1:0:1:70D:12:800:DCA0000:0:0:0:</channel>
 	<channel id="CBC.Sofra.eg">1:0:1:70C:12:800:DCA0000:0:0:0:</channel>
 	<channel id="CBC.eg">1:0:1:70B:12:800:DCA0000:0:0:0:</channel>
-	<channel id="CBC.eg">1:0:19:1327:31:800:DCA0000:0:0:0:</channel>
-	<channel id="CBC_Drama.eg">1:0:1:70D:12:800:DCA0000:0:0:0:</channel>
-	<channel id="CBC_sofra.eg">1:0:1:70C:12:800:DCA0000:0:0:0:</channel>
 	<channel id="Cima.eg">1:0:1:2BD:7:800:DCA0000:0:0:0:</channel>
-	<channel id="Cinema.eg">1:0:1:2C5:7:800:DCA0000:0:0:0:</channel>
 	<channel id="Dijlah.TV.eg">1:0:1:192:10:6E:DCA0000:0:0:0:</channel>
-	<channel id="Dijlah_TV.eg">1:0:1:192:10:6E:DCA0000:0:0:0:</channel>
-	<channel id="Dijlah_TV.eg">1:0:1:2FE:7:800:DCA0000:0:0:0:</channel>
-	<channel id="Dijlah_Zaman.eg">1:0:1:165:C9:800:DCA0000:0:0:0:</channel>
 	<channel id="Discovery.eg">1:0:1:15F:1C84:13E:820000:0:0:0:</channel>
-	<channel id="Discovery.eg">1:0:19:1015:2260:FBFF:820000:0:0:0:</channel>
-	<channel id="Discovery.eg">1:0:19:1621:236:800:DCA0000:0:0:0:</channel>
-	<channel id="Discovery.eg">1:0:19:9DD4:FC8:E0:1040000:0:0:0:</channel>
-	<channel id="DMC.DRAMA.eg">1:0:1:1329:31:800:DC00000:0:0:0:</channel>
 	<channel id="dmc.drama.eg">1:0:1:1329:31:800:DCA0000:0:0:0:</channel>
-	<channel id="dmc.HD.eg">1:0:19:1325:31:800:DCA0000:0:0:0:</channel>
 	<channel id="DMC.eg">1:0:1:1326:31:800:DC00000:0:0:0:</channel>
-	<channel id="DMC.eg">1:0:19:1325:31:800:DC00000:0:0:0:</channel>
-	<channel id="DMC_DRAMA.eg">1:0:1:1329:31:800:DCA0000:0:0:0:</channel>
-	<channel id="Dream.eg">1:0:1:276:6:800:DCA0000:0:0:0:</channel>
 	<channel id="Dubai.One.eg">1:0:1:126F:2F:800:DC00000:0:0:0:</channel>
-	<channel id="Dubai.One.eg">1:0:1:89B:1FC:2BE:1040000:0:0:0:</channel>
-	<channel id="Dubai.One.eg">1:0:19:3:1FC:2BE:1040000:0:0:0:</channel>
-	<channel id="Dubai.One.eg">1:0:19:3:D1C4:77E:DC00000:0:0:0:</channel>
 	<channel id="Dubai.TV.eg">1:0:1:1266:2F:800:DC00000:0:0:0:</channel>
-	<channel id="Dubai.TV.eg">1:0:1:899:1FC:2BE:1040000:0:0:0:</channel>
-	<channel id="Dubai.TV.eg">1:0:19:1:1FC:2BE:1040000:0:0:0:</channel>
-	<channel id="Dubai.TV.eg">1:0:19:1:D1C4:77E:DC00000:0:0:0:</channel>
-	<channel id="Dubai.TV.eg">1:0:19:389:2134:13E:820000:0:0:0:</channel>
 	<channel id="Dubai.Zaman.eg">1:0:1:126E:2F:800:DCA0000:0:0:0:</channel>
-	<channel id="Dubai_TV.eg">1:0:1:1266:2F:800:DCA0000:0:0:0:</channel>
-	<channel id="Dubai_TV.eg">1:0:19:19CB:42:800:DCA0000:0:0:0:</channel>
-	<channel id="Dubai_Zaman.eg">1:0:1:126E:2F:800:DCA0000:0:0:0:</channel>
-	<channel id="DubaiOne.eg">1:0:1:126F:2F:800:DCA0000:0:0:0:</channel>
-	<channel id="DubaiOne.eg">1:0:1:AFC:1C:800:DCA0000:0:0:0:</channel>
-	<channel id="DubaiOne.eg">1:0:19:3:D1C4:77E:DCA0000:0:0:0:</channel>
 	<channel id="Echorouk.TV.eg">1:0:1:7E6:11:6E:DCA0000:0:0:0:</channel>
 	<channel id="Egyptian.TV.eg">1:0:1:1CEF:4A:800:DCA0000:0:0:0:</channel>
-	<channel id="Egyptian.TV.eg">1:0:19:451:B:800:DC00000:0:0:0:</channel>
-	<channel id="Egyptian.TV.eg">1:0:19:89C:16:800:DCA0000:0:0:0:</channel>
-	<channel id="Egyptian_TV.eg">1:0:19:451:B:800:DCA0000:0:0:0:</channel>
 	<channel id="ELMEHWAR.eg">1:0:1:457:B:800:DCA0000:0:0:0:</channel>
-	<channel id="ElMehwarChannel.eg">1:0:1:457:B:800:DCA0000:0:0:0:</channel>
 	<channel id="Emirates.eg">1:0:1:1:1F8:2BE:1040000:0:0:0:</channel>
-	<channel id="Emirates.eg">1:0:1:1787:18:6E:DCA0000:0:0:0:</channel>
-	<channel id="Emirates.eg">1:0:1:2:32:64:DCA0000:0:0:0:</channel>
-	<channel id="ETC.TV.eg">1:0:1:522:D:800:DCA0000:0:0:0:</channel>
-	<channel id="ETC_TV.eg">1:0:1:522:D:800:DCA0000:0:0:0:</channel>
-	<channel id="ETC_TV.eg">1:0:1:89B:1FC:2BE:1040000:0:0:0:</channel>
 	<channel id="Fujairah.eg">1:0:19:19D4:42:800:DCA0000:0:0:0:</channel>
 	<channel id="Hadhramaut.TV.eg">1:0:1:51B:D:800:DCA0000:0:0:0:</channel>
-	<channel id="Hadhramaut.TV.eg">1:0:1:70C:1FA:2BE:1040000:0:0:0:</channel>
-	<channel id="Hadhramaut.TV.eg">1:0:1:A0EC:29:800:DCA0000:0:0:0:</channel>
-	<channel id="Hekayat.eg">1:0:1:2BF:7:800:DCA0000:0:0:0:</channel>
-	<channel id="Hekayat2.eg">1:0:1:2C1:7:800:DCA0000:0:0:0:</channel>
-	<channel id="Iraqia.eg">1:0:1:1C23:48:1:DCA0000:0:0:0:</channel>
-	<channel id="Iraqia.eg">1:0:1:1C29:48:1:DCA0000:0:0:0:</channel>
 	<channel id="Jordan.TV.eg">1:0:1:2C9:7:800:DCA0000:0:0:0:</channel>
-	<channel id="Jordan_TV.eg">1:0:1:70A:1FA:2BE:1040000:0:0:0:</channel>
-	<channel id="Jordan_TV.eg">1:0:19:340:8:800:DCA0000:0:0:0</channel>
 	<channel id="Kuwait.eg">1:0:19:395:2134:13E:820000:0:0:0:</channel>
-	<channel id="Kuwait.eg">1:0:19:44D:7594:77E:1040000:0:0:0:</channel>
-	<channel id="Kuwait.eg">1:0:19:44D:7594:77E:DC00000:0:0:0:</channel>
-	<channel id="Kuwait.eg">1:0:19:453:7594:77E:1040000:0:0:0:</channel>
-	<channel id="Kuwait_Drama.eg">1:0:19:456:7594:77E:DCA0000:0:0:0:</channel>
 	<channel id="LBC.eg">1:0:1:83C:15:800:DCA0000:0:0:0:</channel>
-	<channel id="LBC.eg">1:0:19:17:1:2BE:1040000:0:0:0:</channel>
-	<channel id="LBC.eg">1:0:19:5147:820:E0:1040000:0:0:0:</channel>
-	<channel id="LBCI.eg">1:0:19:17:1:2BE:1040000:0:0:0:</channel>
 	<channel id="Ltv.eg">1:0:1:9:9C68:77E:DCA0000:0:0:0:</channel>
 	<channel id="Maspero.Zaman.eg">1:0:1:267:6:800:DCA0000:0:0:0:</channel>
-	<channel id="Maspero.Zaman.eg">1:0:16:9:2:AF3:EEEE0254:0:0:0:</channel>
-	<channel id="Maspero_Zaman.eg">1:0:1:267:6:800:DCA0000:0:0:0:</channel>
-	<channel id="Maspero_Zaman.eg">1:0:1:3:A:FFFF:EEEE0254:0:0:0:</channel>
 	<channel id="MBC.1.eg">1:0:1:4:3B:800:DCA0000:0:0:0:</channel>
 	<channel id="MBC.2.eg">1:0:1:1:9C68:77E:DC00000:0:0:0:</channel>
-	<channel id="MBC.2.eg">1:0:1:6:1BC0:2BE:1040000:0:0:0:</channel>
-	<channel id="MBC.2.eg">1:0:1:6A:D28C:77E:DCA0000:0:0:0:</channel>
-	<channel id="MBC.2.eg">1:0:1:9:3B:800:DC00000:0:0:0:</channel>
-	<channel id="MBC.2.eg">1:0:19:12E:17F8:2BE:1040000:0:0:0:</channel>
 	<channel id="MBC.3.eg">1:0:1:9:1BC0:2BE:1040000:0:0:0:</channel>
-	<channel id="MBC.3.eg">1:0:1:B:3B:800:DC00000:0:0:0:</channel>
-	<channel id="MBC.3.eg">1:0:19:135:17F8:2BE:1040000:0:0:0:</channel>
 	<channel id="MBC.4.eg">1:0:1:2:1BC0:2BE:1040000:0:0:0:</channel>
-	<channel id="MBC.4.eg">1:0:1:5:3B:800:DC00000:0:0:0:</channel>
-	<channel id="MBC.4.eg">1:0:19:12F:17F8:2BE:1040000:0:0:0:</channel>
-	<channel id="MBC.Action.HD.eg">1:0:19:130:17F8:2BE:1040000:0:0:0:</channel>
 	<channel id="MBC.Action.eg">1:0:1:7:1BC0:2BE:1040000:0:0:0:</channel>
-	<channel id="MBC.Action.eg">1:0:1:A:3B:800:DC00000:0:0:0:</channel>
-	<channel id="MBC.Bollywood.HD.eg">1:0:19:137:17F8:2BE:1040000:0:0:0:</channel>
 	<channel id="MBC.Bollywood.eg">1:0:1:5:1BC0:2BE:1040000:0:0:0:</channel>
-	<channel id="MBC.Bollywood.eg">1:0:1:8:3B:800:DC00000:0:0:0:</channel>
-	<channel id="MBC.Drama.HD.eg">1:0:19:133:17F8:2BE:1040000:0:0:0:</channel>
 	<channel id="MBC.Drama.eg">1:0:1:3:1BC0:2BE:1040000:0:0:0:</channel>
-	<channel id="MBC.Drama.eg">1:0:1:6:3B:800:DC00000:0:0:0:</channel>
-	<channel id="MBC.Drama.eg">1:0:19:136:17F8:2BE:1040000:0:0:0:</channel>
 	<channel id="MBC.Egypt.eg">1:0:1:14:3B:800:DC00000:0:0:0:</channel>
-	<channel id="MBC.Egypt.eg">1:0:1:51A:D:800:DC00000:0:0:0:</channel>
-	<channel id="MBC.Egypt.eg">1:0:19:65:D28C:77E:DCA0000:0:0:0:</channel>
 	<channel id="MBC.Iraq.eg">1:0:1:3:1F7:2BE:1040000:0:0:0:</channel>
-	<channel id="MBC.Iraq.eg">1:0:1:3:9C7C:77E:DC00000:0:0:0:</channel>
 	<channel id="MBC.MAX.eg">1:0:1:8:1BC0:2BE:1040000:0:0:0:</channel>
-	<channel id="MBC.MAX.eg">1:0:1:C:3B:800:DC00000:0:0:0:</channel>
-	<channel id="MBC.MAX.eg">1:0:19:134:17F8:2BE:1040000:0:0:0:</channel>
 	<channel id="MBC.Masr.2.eg">1:0:1:13:3B:800:DC00000:0:0:0:</channel>
-	<channel id="MBC.Masr.2.eg">1:0:1:1F9:5:800:DCA0000:0:0:0:</channel>
-	<channel id="MBC.Masr.2.eg">1:0:1:51B:D:800:DC00000:0:0:0:</channel>
-	<channel id="Mix.eg">1:0:1:190B:40:800:DCA0000:0:0:0:</channel>
 	<channel id="MTV.Lebanon.eg">1:0:1:12C:1:2BE:1040000:0:0:0:</channel>
-	<channel id="MTV.Lebanon.eg">1:0:19:3:1:2BE:1040000:0:0:0:</channel>
 	<channel id="National.Geographic.eg">1:0:1:2523:13EF:13E:820000:0:0:0:</channel>
-	<channel id="National.Geographic.eg">1:0:19:8:32:64:DCA0000:0:0:0:</channel>
-	<channel id="NBN.eg">1:0:1:1:1:2BE:1040000:0:0:0:</channel>
 	<channel id="Nessma.TV.eg">1:0:1:1:1:1:D7AFA3:0:0:0</channel>
 	<channel id="ON.Drama.eg">1:0:1:132B:31:800:DCA0000:0:0:0:</channel>
 	<channel id="ON.E.eg">1:0:1:132A:31:800:DCA0000:0:0:0:</channel>
-	<channel id="One.TV.eg">1:0:1:19:1:2BE:1040000:0:0:0:</channel>
-	<channel id="OSN.Movies.Disney.eg">1:0:19:1B60:44C:E0:1040000:0:0:0:</channel>
-	<channel id="OSN.Movies.First.eg">1:0:19:1B59:44C:E0:1040000:0:0:0:</channel>
-	<channel id="OSN.Movies.Hollywood.eg">1:0:19:1B5B:44C:E0:1040000:0:0:0:</channel>
-	<channel id="OSN.Series.First.eg">1:0:19:1B62:44C:E0:1040000:0:0:0:</channel>
-	<channel id="Panorama.Drama.eg">1:0:1:12C1:2F:800:DCA0000:0:0:0:</channel>
 	<channel id="Rotana.Cinema.eg">1:0:1:25D:1:800:DCA0000:0:0:0:</channel>
-	<channel id="Rotana.Cinema.eg">1:0:1:325:8:800:DCA0000:0:0:0:</channel>
-	<channel id="Rotana.Cinema.eg">1:0:19:1F8:5:800:DCA0000:0:0:0:</channel>
 	<channel id="Rotana.Drama.eg">1:0:1:327:8:800:DCA0000:0:0:0:</channel>
-	<channel id="Rotana.Drama.eg">1:0:19:1FA:5:800:DCA0000:0:0:0:</channel>
 	<channel id="Sama.Dubai.eg">1:0:1:1267:2F:800:DC00000:0:0:0:</channel>
-	<channel id="Sama.Dubai.eg">1:0:1:89A:1FC:2BE:1040000:0:0:0:</channel>
-	<channel id="Sama.Dubai.eg">1:0:19:2:1FC:2BE:1040000:0:0:0:</channel>
-	<channel id="Sama.Dubai.eg">1:0:19:2:D1C4:77E:DC00000:0:0:0:</channel>
 	<channel id="SBC.eg">1:0:1:A2B:1A:2BE:1042F75:0:0:0:</channel>
 	<channel id="Sharjah.TV.eg">1:0:1:1:1F7:2BE:104AE56:0:0:0:</channel>
 	<channel id="Star.Action.eg">1:0:19:9D0E:FB4:E0:1040000:0:0:0:</channel>
 	<channel id="Star.Movies.eg">1:0:19:9D0B:FB4:E0:104AC56:0:0:0:</channel>
 	<channel id="Star.World.eg">1:0:19:9D0C:FB4:E0:1040000:0:0:0:</channel>
 	<channel id="Thikrayat.Tv.eg">1:0:1:A2A:1A:2BE:1042BDE:0:0:0:</channel>
+	<channel site="elcinema.com" site_id="1101" lang="ar" xmltv_id="Egyptian.TV.eg">قناة مصر الأولى</channel>
+	<channel site="elcinema.com" site_id="1119" lang="ar" xmltv_id="Egyptian.TV.eg">المصرية</channel>
+	<channel site="elcinema.com" site_id="1127" lang="ar" xmltv_id="MBC.1.eg">إم بي سي</channel>
+	<channel site="elcinema.com" site_id="1128" lang="ar" xmltv_id="MBC.2.eg">إم بي سي 2</channel>
+	<channel site="elcinema.com" site_id="1129" lang="ar" xmltv_id="MBC.4.eg">إم بي سي 4</channel>
+	<channel site="elcinema.com" site_id="1130" lang="ar" xmltv_id="MBC.Action.eg">إم بي سي أكشن</channel>
+	<channel site="elcinema.com" site_id="1131" lang="ar" xmltv_id="MBC.Plus.Drama.eg">إم بي سي دراما +</channel>
+	<channel site="elcinema.com" site_id="1132" lang="ar" xmltv_id="MBC.MAX.eg">إم بي سي ماكس</channel>
+	<channel site="elcinema.com" site_id="1134" lang="ar" xmltv_id="ON.Drama.eg">أون دراما</channel>
+	<channel site="elcinema.com" site_id="1135" lang="ar" xmltv_id="Emirates.eg">اﻹمارات</channel>
+	<channel site="elcinema.com" site_id="1136" lang="ar" xmltv_id="AbuDhabi.TV.eg">أبو ظبي</channel>
+	<channel site="elcinema.com" site_id="1137" lang="ar" xmltv_id="Alhayat.TV.eg">الحياة</channel>
+	<channel site="elcinema.com" site_id="1145" lang="ar" xmltv_id="ELMEHWAR.eg">المحور</channel>
+	<channel site="elcinema.com" site_id="1147" lang="ar" xmltv_id="Rotana.Drama.eg">روتانا دراما</channel>
+	<channel site="elcinema.com" site_id="1148" lang="ar" xmltv_id="Rotana.Cinema.eg">روتانا سينما مصر</channel>
+	<channel site="elcinema.com" site_id="1149" lang="ar" xmltv_id="Rotana.Khalijia.eg">روتانا خليجية</channel>
+	<channel site="elcinema.com" site_id="1156" lang="ar" xmltv_id="Nile.Drama.eg">نايل دراما</channel>
+	<channel site="elcinema.com" site_id="1159" lang="ar" xmltv_id="Nile.Life.eg">نايل لايف</channel>
+	<channel site="elcinema.com" site_id="1168" lang="ar" xmltv_id="LBC.eg">إل بي سي آي</channel>
+	<channel site="elcinema.com" site_id="1169" lang="ar" xmltv_id="Dubai.TV.eg">دبي</channel>
+	<channel site="elcinema.com" site_id="1173" lang="ar" xmltv_id="Dubai.One.eg">دبي وان</channel>
+	<channel site="elcinema.com" site_id="1174" lang="ar" xmltv_id="Al.Kahera.Wal.Nas.TV.eg">القاهرة والناس</channel>
+	<channel site="elcinema.com" site_id="1176" lang="ar" xmltv_id="Cima.eg">سيما</channel>
+	<channel site="elcinema.com" site_id="1177" lang="ar" xmltv_id="Sama.Dubai.eg">سما دبي</channel>
+	<channel site="elcinema.com" site_id="1188" lang="ar" xmltv_id="Sharjah.TV.eg">الشارقة</channel>
+	<channel site="elcinema.com" site_id="1193" lang="ar" xmltv_id="Al.Nahar.TV.eg">النهار</channel>
+	<channel site="elcinema.com" site_id="1194" lang="ar" xmltv_id="MBC.Drama.eg">إم بي سي دراما</channel>
+	<channel site="elcinema.com" site_id="1198" lang="ar" xmltv_id="CBC.eg">سي بي سي</channel>
+	<channel site="elcinema.com" site_id="1199" lang="ar" xmltv_id="CBC.Drama.eg">سي بي سي دراما</channel>
+	<channel site="elcinema.com" site_id="1203" lang="ar" xmltv_id="ON.E.eg">أون إي</channel>
+	<channel site="elcinema.com" site_id="1204" lang="ar" xmltv_id="iFilm.Arabic.eg">آي فيلم</channel>
+	<channel site="elcinema.com" site_id="1212" lang="ar" xmltv_id="Star.Movies.eg">ستار موفيز</channel>
+	<channel site="elcinema.com" site_id="1216" lang="ar" xmltv_id="Al.Jadeed.TV.eg">الجديد</channel>
+	<channel site="elcinema.com" site_id="1217" lang="ar" xmltv_id="Rotana.Classic.eg">روتانا كلاسيك</channel>
+	<channel site="elcinema.com" site_id="1223" lang="ar" xmltv_id="Al.Nahar.Drama.eg">النهار دراما</channel>
+	<channel site="elcinema.com" site_id="1226" lang="ar" xmltv_id="Sada.El.Balad.eg">صدى البلد</channel>
+	<channel site="elcinema.com" site_id="1227" lang="ar" xmltv_id="Sada.El.Balad.Drama.eg">صدى البلد دراما</channel>
+	<channel site="elcinema.com" site_id="1239" lang="ar" xmltv_id="MBC.Egypt.eg">إم بي سي مصر</channel>
+	<channel site="elcinema.com" site_id="1241" lang="ar" xmltv_id="MBC.3.eg">إم بي سي 3</channel>
+	<channel site="elcinema.com" site_id="1242" lang="ar" xmltv_id="Cartoon.Network.eg">نتورك بالعربية</channel>
+	<channel site="elcinema.com" site_id="1252" lang="ar" xmltv_id="Al.Kahera.Wal.Nas.TV.2.eg">القاهرة والناس 2</channel>
+	<channel site="elcinema.com" site_id="1259" lang="ar" xmltv_id="MBC.Bollywood.eg">إم بي سي بوليوود</channel>
+	<channel site="elcinema.com" site_id="1260" lang="ar" xmltv_id="CBC.Sofra.eg">سي بي سي سفرة</channel>
+	<channel site="elcinema.com" site_id="1261" lang="ar" xmltv_id="Zee.Alwan.eg">زي ألوان</channel>
+	<channel site="elcinema.com" site_id="1264" lang="ar" xmltv_id="Al.Dafrah.eg">الظفرة</channel>
+	<channel site="elcinema.com" site_id="1266" lang="ar" xmltv_id="National.Geographic.eg">ناشونال جيوجرافيك أبو ظبي</channel>
+	<channel site="elcinema.com" site_id="1269" lang="ar" xmltv_id="Al.Sharqiya.eg">الشرقية</channel>
+	<channel site="elcinema.com" site_id="1272" lang="ar" xmltv_id="Discovery.eg">ديسكفري</channel>
+	<channel site="elcinema.com" site_id="1275" lang="ar" xmltv_id="National.Geographic.eg">ناشيونال جيوجرافيك</channel>
+	<channel site="elcinema.com" site_id="1278" lang="ar" xmltv_id="MBC.Masr.2.eg">إم بي سي مصر 2</channel>
+	<channel site="elcinema.com" site_id="1279" lang="ar" xmltv_id="Sada.El.Balad.2.eg">صدى البلد 2</channel>
+	<channel site="elcinema.com" site_id="1280" lang="ar" xmltv_id="TEN.TV.eg">تن</channel>
+	<channel site="elcinema.com" site_id="1283" lang="ar" xmltv_id="Dubai.Zaman.eg">دبي زمان</channel>
+	<channel site="elcinema.com" site_id="1289" lang="ar" xmltv_id="Rotana.Cinema.eg">روتانا سينما</channel>
+	<channel site="elcinema.com" site_id="1290" lang="ar" xmltv_id="DMC.eg">دي إم سي</channel>
+	<channel site="elcinema.com" site_id="1292" lang="ar" xmltv_id="dmc.drama.eg">دي إم سي دراما</channel>
+	<channel site="elcinema.com" site_id="1296" lang="ar" xmltv_id="MTV.Lebanon.eg">إم تي في</channel>
+	<channel site="elcinema.com" site_id="1297" lang="ar" xmltv_id="SBC.eg">إس بي سي</channel>
+	<channel site="elcinema.com" site_id="1298" lang="ar" xmltv_id="Amman.TV.eg">عَمان</channel>
+	<channel site="elcinema.com" site_id="1299" lang="ar" xmltv_id="Roya.TV.eg">رؤيا</channel>
+	<channel site="elcinema.com" site_id="1301" lang="ar" xmltv_id="Alsumaria.eg">السومرية</channel>
+	<channel site="elcinema.com" site_id="1302" lang="ar" xmltv_id="Fujairah.eg">الفجيرة</channel>
+	<channel site="elcinema.com" site_id="1304" lang="ar" xmltv_id="Nessma.TV.eg">نسمة</channel>
+	<channel site="elcinema.com" site_id="1306" lang="ar" xmltv_id="Alrasheed.eg">الرشيد</channel>
+	<channel site="elcinema.com" site_id="1308" lang="ar" xmltv_id="Tunisia.1.eg">الوطنية 1</channel>
+	<channel site="elcinema.com" site_id="1309" lang="ar" xmltv_id="Bein_Drama_1.eg">بي إن دراما</channel>
+	<channel site="elcinema.com" site_id="1310" lang="ar" xmltv_id="Kuwait.eg">الكويت</channel>
+	<channel site="elcinema.com" site_id="1312" lang="ar" xmltv_id="Al.Aoula.Morocco.eg">الأولى المغربية</channel>
+	<channel site="elcinema.com" site_id="1313" lang="ar" xmltv_id="Ltv.eg">ال تي في</channel>
+	<channel site="elcinema.com" site_id="1314" lang="ar" xmltv_id="Jordan.TV.eg">الأردن</channel>
+	<channel site="elcinema.com" site_id="1315" lang="ar" xmltv_id="Echorouk.TV.eg">الشروق الجزائرية</channel>
+	<channel site="elcinema.com" site_id="1317" lang="ar" xmltv_id="Oman.TV.eg">عمان</channel>
+	<channel site="elcinema.com" site_id="1319" lang="ar" xmltv_id="Qatar.TV.eg">قطر</channel>
+	<channel site="elcinema.com" site_id="1321" lang="ar" xmltv_id="Al.Manar.eg">المنار</channel>
+	<channel site="elcinema.com" site_id="1322" lang="ar" xmltv_id="Bein_Movies_Premiere_1.eg">بي إن موفيز بريمير</channel>
+	<channel site="elcinema.com" site_id="1323" lang="ar" xmltv_id="Bein_Movies_Action_2.eg">بي إن موفيز أكشن</channel>
+	<channel site="elcinema.com" site_id="1324" lang="ar" xmltv_id="Bein_Movies_Drama_3.eg">بي إن موفيز دراما</channel>
+	<channel site="elcinema.com" site_id="1327" lang="ar" xmltv_id="Bein_Series_1.eg">بي إن سيريس</channel>
+	<channel site="elcinema.com" site_id="1328" lang="ar" xmltv_id="Bein_Series_2.eg">بي إن سيريس إتش دي</channel>
+	<channel site="elcinema.com" site_id="1329" lang="ar" xmltv_id="Star.World.eg">ستار ورلد</channel>
+	<channel site="elcinema.com" site_id="1330" lang="ar" xmltv_id="Star.Action.eg">ستار أكشن</channel>
+	<channel site="elcinema.com" site_id="1334" lang="ar" xmltv_id="Tunisia.2.eg">الوطنية 2</channel>
+	<channel site="elcinema.com" site_id="1336" lang="ar" xmltv_id="Maspero.Zaman.eg">ماسبيرو زمان</channel>
+	<channel site="elcinema.com" site_id="1339" lang="ar" xmltv_id="Al.Saeedah.eg">السعيدة</channel>
+	<channel site="elcinema.com" site_id="1340" lang="ar" xmltv_id="MBC.Iraq.eg">إم بي سي العراق</channel>
+	<channel site="elcinema.com" site_id="1341" lang="ar" xmltv_id="LBC.eg">إل بي سي</channel>
+	<channel site="elcinema.com" site_id="1349" lang="ar" xmltv_id="Al.Iraqia.eg">العراقية</channel>
+	<channel site="elcinema.com" site_id="1352" lang="ar" xmltv_id="Saudi.TV.eg">السعودية</channel>
+	<channel site="elcinema.com" site_id="1353" lang="ar" xmltv_id="2M.Monde.eg">المغربية الثانية</channel>
+	<channel site="elcinema.com" site_id="1354" lang="ar" xmltv_id="MBC.5.eg">إم بي سي 5</channel>
+	<channel site="elcinema.com" site_id="1358" lang="ar" xmltv_id="Rotana.Comedy.eg">روتانا كوميدي</channel>
+	<channel site="elcinema.com" site_id="1360" lang="ar" xmltv_id="Salam.TV.eg">سلام</channel>
+	<channel site="elcinema.com" site_id="1366" lang="ar" xmltv_id="Thikrayat.TV.eg">ذكريات</channel>
+	<channel site="elcinema.com" site_id="1367" lang="ar" xmltv_id="UTV.Iraq.eg">يو تي في</channel>
+	<channel site="elcinema.com" site_id="1368" lang="ar" xmltv_id="Bahrain.TV.eg">البحرين</channel>
+	<channel site="elcinema.com" site_id="1371" lang="ar" xmltv_id="Mix.Bel.Araby.eg">ميكس بالعربي</channel>
+	<channel site="elcinema.com" site_id="1374" lang="ar" xmltv_id="Hadhramaut.TV.eg">تلفزيون حضرموت</channel>
+	<channel site="elcinema.com" site_id="1380" lang="ar" xmltv_id="ATV.Kuwait.eg">إيه تي في</channel>
+	<channel site="elcinema.com" site_id="1382" lang="ar" xmltv_id="Al.Araby.TV.2.eg">التلفزيون العربي 2</channel>
+	<channel site="elcinema.com" site_id="1385" lang="ar" xmltv_id="Dijlah.TV.eg">دجلة</channel>
+	<channel site="elcinema.com" site_id="1398" lang="ar" xmltv_id="Syria.2.eg">الثانية</channel>
+	<channel site="elcinema.com" site_id="1399" lang="ar" xmltv_id="MBC.Egypt.Drama.eg">إم بي سي مصر دراما</channel>
+	<channel site="elcinema.com" site_id="1401" lang="ar" xmltv_id="Masah.TV.eg">ماسة</channel>
 </channels>
